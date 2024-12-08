@@ -86,7 +86,7 @@
   background-color: black;
   width: 1920px;
 }
-.foot-one{
+#foot-one{
   
   background-image: url(../../public/Blog.png);
   background-size: cover;
@@ -95,10 +95,96 @@ height: 656px;
 margin-left: 180px;
 }
 
-.foot-two{
+#foot-two{
   margin-top: 80px;
   background-image: url(../../public/Footer.png);
   background-size: cover;
   width: 1923.73px;
 height: 740.15px;
+}
+/* RESTAURENT 2 */
+
+.rest-main{
+  width: 1920px;
+}
+.rest-1{
+  background-image:url(../../public/Headerhero2.png) ;
+  background-size: cover;
+  width: 1920px;
+height: 1392px;
+margin-left: 0px;
+
+
+}
+.rest-2{
+  background-image:url(../../public/Group1000002253-1-2.png) ;
+  background-size: cover;
+  width: 1920px;
+height: 1514px;
+top: 1080px;
+left: -273px;
+gap: 0px;
+border: 1px 0px 0px 0px;
+opacity: 0px;
+}
+.rest-3{
+  background-image: url(../../public/Whychooseus2.png);
+  background-size: cover;
+  width: 1320px;
+height: 714px;
+margin-left: 300px;
+
+}
+.rest-4{
+  background-image:url(../../public/FoodMenu.png) ;
+  background-size: cover;
+  width: 1320px;
+height: 941px;
+margin-left: 300px;
+
+
+
+}
+.rest-5{
+  background-image:url(../../public/TeamMember.png) ;
+  background-size: cover;
+  width: 1320.93px;
+height: 1082px;
+margin-left: 300px;
+padding-top: 0px;
+
+
+}
+.rest-6{
+  background-image: url(../../public/Testimonial2.png);
+  background-size: cover;
+  width: 1320px;
+height: 479px;
+top: 5378px;
+margin-left: 300px;
+
+}
+.rest-7{
+  background-image:url(../../public/Blog2.png);
+  background-size: cover;
+  width: 1320px;
+height: 752px;
+margin-left: 300px;
+
+}
+.rest-8{
+  background-image: url(../../public/Clientsandpartner.png);
+  background-size:cover;
+  width: 1320px;
+height: 299px;
+margin-left: 300px;
+
+}
+.rest-9{
+  background-image: url(../../public/Footer2.png);
+  background-size: cover;
+  width: 2238.08px;
+height: 847.02px;
+
+
 }

@@ -1,16 +1,16 @@
 
-import Image from "next/image";
-import styles from "./page.module.css";
+//  import Image from "next/image";
+//  import styles from "./page.module.css";
 
 export default function Home() {
   return (
     
-    <body>
-       <header>
+    <div>
+        <header> 
       <div className="header-one">  
       </div>
-      </header>
-      <main>
+       </header> 
+       <main> 
         <div className="main-one">
           <div className="first-main"></div>
           <div className="second-main"></div>
@@ -25,14 +25,28 @@ export default function Home() {
           </div>
           <div className="main-fourth">
           </div>
-      </main>
-      <footer>
+          </main> 
+      <footer> 
         <div className="foot-main">
-          <div className="foot-one"></div>
-          <div className="foot-two"></div>
+          <div id="foot-one"></div>
+          <div id="foot-two"></div>
         </div>
-      </footer>
-</body>
+      </footer> 
+      <br />
+      <h1>Restaurent 2</h1>
+      <div className="rest-main">
+        <div className="rest-1"></div>
+        <div className="rest-2"></div>
+        <div className="rest-3"></div>
+        <div className="rest-4"></div>
+        <div className="rest-5"></div>
+        <div className="rest-6"></div>
+        <div className="rest-7"></div>
+        <div className="rest-8"></div>
+        <div className="rest-9"></div>
+    
+      </div>
+      </div>
 
   );
 }
